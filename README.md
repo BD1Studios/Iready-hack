@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=ou652X0cFzs
 
 https://www.youtube.com/watch?v=XAMg8Qm3eEA&ab
 
-# Diagnostic-hack (Example: Q: 3+1, A: 4, but you put 5 and you got it right.)
+# Diagnostic-hack
 <bold><h1>How to setup:</bold></h2>
 
 <bold>Example:</bold> 
