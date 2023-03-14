@@ -32,8 +32,8 @@ Copy this link and paste it in a new tab:
    
         https://github.com/BD1Studios/Iready-hack/blob/main/Diagnostic%20hack
         
-Copy and paste the code in your console on I-ready, Then every question you click, its right, Paste the code again to stop getting wrong answers correct. You can open up the console by using: Ctrl  Shift  J. You can close the console by using the same method to open up the console.
+Copy and paste the code in your console on Iready, Then every question you click, its right, Paste the code again to stop getting wrong answers correct. You can open up the console by using: Ctrl  Shift  J. You can close the console by using the same method to open up the console.
 
 <h1>P.S. 
 BD1Studios</h1>
-Subscribe on my YT: bit.ly/BD1Studios
+Subscribe on my YT: https://bit.ly/BD1Studios
