@@ -26,14 +26,6 @@ Copy this link and paste it in a new tab:
         
 Copy and paste the code in your console on Iready (Dont forget to hit ENTER), Then every question you click, its right, Paste the code again (Dont forget to hit ENTER) to stop getting wrong answers correct. You can open up the console by using: Ctrl  Shift  J. You can close the console by using the same method to open up the console.
 
-<bold><h1>How to hack Iready:</bold></h1>
-
-https://www.youtube.com/watch?v=ou652X0cFzs
-
-<bold><h1>How to make a bookmark:</bold></h1>
-
-https://www.youtube.com/watch?v=XAMg8Qm3eEA&ab
-
 <h1>P.S. 
 BD1Studios</h1>
 Subscribe on my YT: https://bit.ly/BD1Studios
