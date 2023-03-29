@@ -17,7 +17,7 @@ If your school blocks github, use:
 
 <bold>Example:</bold> 
 
-(The Question is "What is 3+1", The Answer is 4, but you put 5 and you got it right.)
+(The Question is "What is 3+1", The Answer is 4, but you put a different answer and got it right anyway.)
 
 
 Copy this link and paste it in a new tab:
